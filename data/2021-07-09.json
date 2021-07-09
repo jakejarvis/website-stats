@@ -1,0 +1,149 @@
+[
+  {
+    "slug": "notes/how-to-pull-request-fork-github",
+    "hits": 85983,
+    "title": "How To: Fork a GitHub Repository & Submit a Pull Request",
+    "url": "https://jarv.is/notes/how-to-pull-request-fork-github/",
+    "date": "2019-04-09T06:17:03.000Z"
+  },
+  {
+    "slug": "notes/how-to-backup-linux-server",
+    "hits": 56541,
+    "title": "How To: Automatically Backup a Linux VPS to a Separate Cloud Storage Service",
+    "url": "https://jarv.is/notes/how-to-backup-linux-server/",
+    "date": "2019-06-09T23:03:10.000Z"
+  },
+  {
+    "slug": "notes/shodan-search-queries",
+    "hits": 29123,
+    "title": "Fascinating & Frightening Shodan Search Queries (AKA: The Internet of Sh*t)",
+    "url": "https://jarv.is/notes/shodan-search-queries/",
+    "date": "2019-09-19T13:56:10.000Z"
+  },
+  {
+    "slug": "notes/github-rename-master",
+    "hits": 15167,
+    "title": "How To: Safely Rename master Branch on GitHub ✊🏾",
+    "url": "https://jarv.is/notes/github-rename-master/",
+    "date": "2020-06-28T13:28:52.000Z"
+  },
+  {
+    "slug": "notes/coronavirus-open-source",
+    "hits": 11001,
+    "title": "COVID-19 vs. the Open Source Community ⚔️",
+    "url": "https://jarv.is/notes/coronavirus-open-source/",
+    "date": "2020-03-23T19:17:09.000Z"
+  },
+  {
+    "slug": "notes/cloudflare-dns-archive-is-blocked",
+    "hits": 9600,
+    "title": "Does Cloudflare's 1.1.1.1 DNS Block Archive.is?",
+    "url": "https://jarv.is/notes/cloudflare-dns-archive-is-blocked/",
+    "date": "2019-05-04T13:35:12.000Z"
+  },
+  {
+    "slug": "notes/finding-candidates-subdomain-takeovers",
+    "hits": 6300,
+    "title": "Finding Candidates for Subdomain Takeovers",
+    "url": "https://jarv.is/notes/finding-candidates-subdomain-takeovers/",
+    "date": "2019-03-10T15:19:48.000Z"
+  },
+  {
+    "slug": "notes/how-to-shrink-linux-virtual-disk-vmware",
+    "hits": 5407,
+    "title": "How To: Shrink a Linux Virtual Machine Disk with VMware",
+    "url": "https://jarv.is/notes/how-to-shrink-linux-virtual-disk-vmware/",
+    "date": "2018-12-04T23:10:04.000Z"
+  },
+  {
+    "slug": "notes/css-waving-hand-emoji",
+    "hits": 3765,
+    "title": "Animated Waving Hand Emoji 👋 Using CSS",
+    "url": "https://jarv.is/notes/css-waving-hand-emoji/",
+    "date": "2019-04-17T18:20:10.000Z"
+  },
+  {
+    "slug": "notes/dark-mode",
+    "hits": 3595,
+    "title": "How To: Add Dark Mode to a Website 🌓",
+    "url": "https://jarv.is/notes/dark-mode/",
+    "date": "2020-04-29T16:14:09.000Z"
+  },
+  {
+    "slug": "notes/netlify-analytics-review",
+    "hits": 1596,
+    "title": "Netlify Analytics Review",
+    "url": "https://jarv.is/notes/netlify-analytics-review/",
+    "date": "2019-11-13T13:21:22.000Z"
+  },
+  {
+    "slug": "notes/y2k-sandbox",
+    "hits": 1365,
+    "title": "I Made A Thing, Powered by Windows Me™",
+    "url": "https://jarv.is/notes/y2k-sandbox/",
+    "date": "2020-06-06T14:05:23.000Z"
+  },
+  {
+    "slug": "notes/dropping-dropbox",
+    "hits": 1293,
+    "title": "Why I'm Dropping Dropbox",
+    "url": "https://jarv.is/notes/dropping-dropbox/",
+    "date": "2019-11-20T21:22:43.000Z"
+  },
+  {
+    "slug": "notes/github-actions",
+    "hits": 1084,
+    "title": "I ❤️ GitHub Actions",
+    "url": "https://jarv.is/notes/github-actions/",
+    "date": "2019-10-25T17:58:39.000Z"
+  },
+  {
+    "slug": "notes/presidential-candidates-404-pages",
+    "hits": 998,
+    "title": "Ranking 2020 Presidential Candidates's 404 Pages",
+    "url": "https://jarv.is/notes/presidential-candidates-404-pages/",
+    "date": "2019-10-30T17:58:39.000Z"
+  },
+  {
+    "slug": "notes/security-headers-cloudflare-workers",
+    "hits": 829,
+    "title": "Adding Security Headers Using Cloudflare Workers",
+    "url": "https://jarv.is/notes/security-headers-cloudflare-workers/",
+    "date": "2019-02-28T07:18:10.000Z"
+  },
+  {
+    "slug": "notes/bernie-sanders-bern-app-data",
+    "hits": 778,
+    "title": "Bernie Sanders' Creepy \"BERN\" App Wants Your Data...From Your Best Friends",
+    "url": "https://jarv.is/notes/bernie-sanders-bern-app-data/",
+    "date": "2019-05-08T14:31:02.000Z"
+  },
+  {
+    "slug": "notes/cool-bash-tricks-for-your-terminal-dotfiles",
+    "hits": 344,
+    "title": "Cool Bash Tricks for Your Terminal's \"Dotfiles\"",
+    "url": "https://jarv.is/notes/cool-bash-tricks-for-your-terminal-dotfiles/",
+    "date": "2018-12-11T00:01:50.000Z"
+  },
+  {
+    "slug": "notes/my-first-code",
+    "hits": 316,
+    "title": "My First Code: Jake's Bulletin Board",
+    "url": "https://jarv.is/notes/my-first-code/",
+    "date": "2019-10-01T12:34:25.000Z"
+  },
+  {
+    "slug": "notes/millenial-with-hillary-clinton",
+    "hits": 303,
+    "title": "Why This Millennial Is With Hillary Clinton Now — and Why We All Need To Be In November",
+    "url": "https://jarv.is/notes/millenial-with-hillary-clinton/",
+    "date": "2016-02-29T04:10:26.000Z"
+  },
+  {
+    "slug": "notes/no-homo-still-raps-motto",
+    "hits": 145,
+    "title": "\"No Homo!\" — Still Rap's Motto in 2012?",
+    "url": "https://jarv.is/notes/no-homo-still-raps-motto/",
+    "date": "2013-11-22T15:58:20.000Z"
+  }
+]
