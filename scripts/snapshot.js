@@ -12,17 +12,23 @@ const API_ENDPOINT = "https://jarv.is/api/hits/";
 (async () => {
   // find our bearings
   const rootDir = await pkgDir(__dirname);
-  const today = DateTime.now().toISODate();
-  const jsonFile = path.join(rootDir, "data", `${today}.json`);
+  const fullDate = DateTime.now().toISODate();
+  const jsonPath = path.join(
+    rootDir,
+    "data",
+    DateTime.now().toFormat('yyyy'), // year
+    DateTime.now().toFormat('LL'), // month
+    `${fullDate}.json` // year-month-day.json
+  );
 
   // pull the latest stats from API
   console.info("📡 Fetching latest data from API...");
   const { body } = await got(API_ENDPOINT, { responseType: "json" });
 
   // write pretty JSON to timestamped file
-  console.info(`✏️ Writing data to ${jsonFile} ...`);
+  console.info(`✏️ Writing data to ${jsonPath} ...`);
   await fs.outputFile(
-    jsonFile,
+    jsonPath,
     prettier.format(JSON.stringify(body.pages), { parser: "json" })
   );
 
@@ -39,8 +45,8 @@ const API_ENDPOINT = "https://jarv.is/api/hits/";
     git.addConfig("user.email", "41898282+github-actions[bot]@users.noreply.github.com");
 
     // do the normal git stuff
-    await git.add([ jsonFile ]);
-    await git.commit(`📈 Add new snapshot for ${today}`);
+    await git.add([ jsonPath ]);
+    await git.commit(`📈 Add new snapshot for ${fullDate}`);
     await git.push("origin", "main");
   } else {
     console.info("🤖 Didn't detect CI: skipping Git steps...");

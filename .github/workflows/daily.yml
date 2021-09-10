@@ -14,4 +14,4 @@ jobs:
       with:
         node-version: 16
     - run: yarn install
-    - run: yarn run daily
+    - run: yarn run snapshot
