@@ -13,6 +13,6 @@
     "luxon": "^2.0.2",
     "pkg-dir": "^5.0.0",
     "prettier": "^2.4.1",
-    "simple-git": "^2.46.0"
+    "simple-git": "^2.48.0"
   }
 }
