@@ -10,7 +10,7 @@
   "dependencies": {
     "fs-extra": "^10.0.0",
     "got": "^11.8.2",
-    "luxon": "^2.0.2",
+    "luxon": "^2.2.0",
     "pkg-dir": "^5.0.0",
     "prettier": "^2.4.1",
     "simple-git": "^2.46.0"
