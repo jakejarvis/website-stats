@@ -2,7 +2,7 @@ import path from "path";
 import fetch from "node-fetch";
 import { format } from "date-fns";
 import simpleGit from "simple-git";
-import { writeJsonFile } from 'write-json-file';
+import { writeJsonFile } from "write-json-file";
 
 // https://github.com/jakejarvis/jarv.is/blob/main/pages/api/hits.ts#L101
 const API_ENDPOINT = "https://jarv.is/api/hits/";
@@ -12,9 +12,9 @@ const today = new Date();
 const jsonPath = path.join(
   process.cwd(),
   "data",
-  format(today, 'yyyy'), // year
-  format(today, 'MM'), // month
-  `${format(today, 'yyyy-MM-dd')}.json` // year-month-day.json
+  format(today, "yyyy"), // year
+  format(today, "MM"), // month
+  `${format(today, "yyyy-MM-dd")}.json` // year-month-day.json
 );
 
 // pull the latest stats from API
@@ -39,7 +39,7 @@ if (process.env.GITHUB_ACTION) {
 
   // do the normal git stuff
   await git.add([jsonPath]);
-  await git.commit(`📈 Add new snapshot for ${format(today, 'yyyy-MM-dd')}`);
+  await git.commit(`📈 Add new snapshot for ${format(today, "yyyy-MM-dd")}`);
   await git.push("origin", "main");
 } else {
   console.warn("🤖 Didn't detect CI: skipping Git steps...");
