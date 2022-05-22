@@ -1,8 +1,4 @@
 {
-  "name": "website-stats",
-  "version": "1.3.37",
-  "repository": "https://github.com/jakejarvis/website-stats.git",
-  "author": "Jake Jarvis <jake@jarv.is>",
   "private": true,
   "type": "module",
   "scripts": {
