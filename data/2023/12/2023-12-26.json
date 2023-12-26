@@ -1,0 +1,158 @@
+[
+	{
+		"slug": "notes/how-to-pull-request-fork-github",
+		"hits": 123268
+	},
+	{
+		"slug": "notes/how-to-backup-linux-server",
+		"hits": 61962
+	},
+	{
+		"slug": "notes/shodan-search-queries",
+		"hits": 58889
+	},
+	{
+		"slug": "notes/cloudflare-dns-archive-is-blocked",
+		"hits": 45484
+	},
+	{
+		"slug": "notes/github-rename-master",
+		"hits": 24372
+	},
+	{
+		"slug": "notes/how-to-shrink-linux-virtual-disk-vmware",
+		"hits": 21692
+	},
+	{
+		"slug": "notes/css-waving-hand-emoji",
+		"hits": 15728
+	},
+	{
+		"slug": "notes/coronavirus-open-source",
+		"hits": 11650
+	},
+	{
+		"slug": "notes/hugo-to-nextjs",
+		"hits": 8724
+	},
+	{
+		"slug": "notes/dark-mode",
+		"hits": 7692
+	},
+	{
+		"slug": "notes/finding-candidates-subdomain-takeovers",
+		"hits": 7596
+	},
+	{
+		"slug": "notes/netlify-analytics-review",
+		"hits": 3154
+	},
+	{
+		"slug": "notes/dropping-dropbox",
+		"hits": 2669
+	},
+	{
+		"slug": "notes/y2k-sandbox",
+		"hits": 2649
+	},
+	{
+		"slug": "notes/security-headers-cloudflare-workers",
+		"hits": 2080
+	},
+	{
+		"slug": "notes/github-actions",
+		"hits": 1996
+	},
+	{
+		"slug": "notes/my-first-code",
+		"hits": 1463
+	},
+	{
+		"slug": "notes/bernie-sanders-bern-app-data",
+		"hits": 1432
+	},
+	{
+		"slug": "notes/presidential-candidates-404-pages",
+		"hits": 1322
+	},
+	{
+		"slug": "notes/cool-bash-tricks-for-your-terminal-dotfiles",
+		"hits": 954
+	},
+	{
+		"slug": "notes/millenial-with-hillary-clinton",
+		"hits": 843
+	},
+	{
+		"slug": "-1\" OR 2+256-256-1=0+0+0+1 -- ",
+		"hits": 1
+	},
+	{
+		"slug": "if(now()=sysdate(),sleep(15),0)",
+		"hits": 1
+	},
+	{
+		"slug": "0'XOR(if(now()=sysdate(),sleep(15),0))XOR'Z",
+		"hits": 1
+	},
+	{
+		"slug": "0\"XOR(if(now()=sysdate(),sleep(15),0))XOR\"Z",
+		"hits": 1
+	},
+	{
+		"slug": "(select(0)from(select(sleep(15)))v)/*'+(select(0)from(select(sleep(15)))v)+'\"+(select(0)from(select(sleep(15)))v)+\"*/",
+		"hits": 1
+	},
+	{
+		"slug": "1 waitfor delay '0:0:15' -- ",
+		"hits": 1
+	},
+	{
+		"slug": "Wm4XYnVa'; waitfor delay '0:0:15' -- ",
+		"hits": 1
+	},
+	{
+		"slug": "xhJpyMeJ' OR 881=(SELECT 881 FROM PG_SLEEP(15))--",
+		"hits": 1
+	},
+	{
+		"slug": "-1' OR 2+917-917-1=0+0+0+1 -- ",
+		"hits": 1
+	},
+	{
+		"slug": "Z4E8zxZZ') OR 482=(SELECT 482 FROM PG_SLEEP(15))--",
+		"hits": 1
+	},
+	{
+		"slug": "0N9G1ZPC') OR 995=(SELECT 995 FROM PG_SLEEP(3))--",
+		"hits": 1
+	},
+	{
+		"slug": "8DCCh4qn')) OR 817=(SELECT 817 FROM PG_SLEEP(15))--",
+		"hits": 1
+	},
+	{
+		"slug": "notes/my-first-code'||DBMS_PIPE.RECEIVE_MESSAGE(CHR(98)||CHR(98)||CHR(98),15)||'",
+		"hits": 1
+	},
+	{
+		"slug": "1'\"",
+		"hits": 1
+	},
+	{
+		"slug": "@@cTvlo",
+		"hits": 1
+	},
+	{
+		"slug": "-1 OR 2+590-590-1=0+0+0+1",
+		"hits": 1
+	},
+	{
+		"slug": "-1' OR 2+659-659-1=0+0+0+1 or 'QOI0vEdZ'='",
+		"hits": 1
+	},
+	{
+		"slug": "-1 OR 2+95-95-1=0+0+0+1 -- ",
+		"hits": 1
+	}
+]
