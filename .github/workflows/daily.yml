@@ -9,9 +9,14 @@ jobs:
   snapshot:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - uses: actions/setup-node@v2
+    - uses: actions/checkout@v4
+    - uses: pnpm/action-setup@v4
       with:
-        node-version: 16
-    - run: yarn install
-    - run: yarn run snapshot
+        version: 9
+        run_install: false
+    - uses: actions/setup-node@v4
+      with:
+        node-version: 20
+        cache: 'pnpm'
+    - run: pnpm install
+    - run: pnpm run snapshot

@@ -5,9 +5,8 @@
     "snapshot": "node scripts/snapshot.js"
   },
   "dependencies": {
-    "date-fns": "^2.28.0",
-    "node-fetch": "^3.2.4",
-    "simple-git": "^3.7.1",
-    "write-json-file": "^5.0.0"
+    "date-fns": "^4.1.0",
+    "node-fetch": "^3.3.2",
+    "simple-git": "^3.27.0"
   }
 }
