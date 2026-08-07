@@ -7,6 +7,6 @@
   "dependencies": {
     "date-fns": "^4.1.0",
     "node-fetch": "^3.3.2",
-    "simple-git": "^3.27.0"
+    "simple-git": "^3.36.0"
   }
 }
